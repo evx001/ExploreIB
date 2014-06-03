@@ -5,13 +5,15 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>7E958BAD-2B93-4C3B-B07A-CB5B59E35832</string>
+	<string>A220A871-2FFA-4959-BFE0-6887862AFDC9</string>
 	<key>IDESourceControlProjectName</key>
 	<string>ExploreIB</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>ABF41A35-05DD-4C0D-BB9C-458526A64EAD</key>
 		<string>ssh://github.com/evx001/Xcode001.git</string>
+		<key>AC92C4D3-7570-4C2E-B482-EC32233D6EFC</key>
+		<string>https://github.com/evx001/ExploreIB.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>ExploreIB/ExploreIB.xcodeproj/project.xcworkspace</string>
@@ -19,9 +21,11 @@
 	<dict>
 		<key>ABF41A35-05DD-4C0D-BB9C-458526A64EAD</key>
 		<string>../../..</string>
+		<key>AC92C4D3-7570-4C2E-B482-EC32233D6EFC</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://github.com/evx001/Xcode001.git</string>
+	<string>https://github.com/evx001/ExploreIB.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
@@ -35,6 +39,14 @@
 			<string>ABF41A35-05DD-4C0D-BB9C-458526A64EAD</string>
 			<key>IDESourceControlWCCName</key>
 			<string>_Xcode</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AC92C4D3-7570-4C2E-B482-EC32233D6EFC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ExploreIB</string>
 		</dict>
 	</array>
 </dict>
